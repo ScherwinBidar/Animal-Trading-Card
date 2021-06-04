@@ -1,0 +1,42 @@
+.card {
+       width: 300px;
+       border: solid grey 1px;
+       padding: 10px;
+       background-image: url("camouflage.jpg");
+      }
+
+.box {
+       border: solid grey 1px ;
+       padding: 10px;
+       background-color: #e3c47b;
+      }
+
+ul {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+   }
+
+#italic {
+         font-style: italic;
+        }
+
+span  {
+       font-weight: bold;
+      }
+
+h3 {
+     font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
+     font-size: 22px;
+     letter-spacing: 2px;
+     word-spacing: 0px;
+     color: black;
+     font-weight: 700;
+     font-style: normal;
+     font-variant: normal;
+     text-transform: none;
+     text-align: center;
+     background: orange;
+     border: solid black;
+     border-radius: 25px
+   }
